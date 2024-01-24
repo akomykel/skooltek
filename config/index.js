@@ -1,0 +1,1 @@
+export const BASE_URL = 'http://tenant1.dev-v2.skooltek.co/api';
